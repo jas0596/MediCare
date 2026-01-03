@@ -1,1 +1,1 @@
-# MediCare
+MediCare - Hospital Management System
